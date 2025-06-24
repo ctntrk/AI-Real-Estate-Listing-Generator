@@ -6,6 +6,12 @@ This project helps real estate agents, property owners, and marketers generate h
 
 ---
 
+## AI Real Estate Listing Generator Demo Introduction Video
+
+https://github.com/user-attachments/assets/4cf57bfa-0cc8-40f1-8a56-67fe9c8bb0a4
+
+---
+
 ## 🌐 Live Demo
 
 Try the app instantly via Hugging Face Spaces:
