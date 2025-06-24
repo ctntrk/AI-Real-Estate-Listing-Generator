@@ -39,6 +39,38 @@ Try the app instantly via Hugging Face Spaces:
 
 ---
 
+## 🚀 How It Works
+
+1. **🧠 Model Loading**
+   Loads the `SmolLM2-1.7B-Instruct` model and tokenizer from Hugging Face using PyTorch.
+
+2. **🖥️ User Interface (UI)**
+   Built with Gradio, featuring input fields for:
+
+   * 📍 Location
+   * 📐 Size
+   * 🛏️ Rooms
+   * 🧰 Features
+   * 🏡 Amenities
+   * 🗺️ Nearby
+
+3. **✍️ User Input**
+   Users fill in property details and click **“Generate”**.
+
+4. **🧾 Prompt Creation**
+   A custom prompt is created using the inputs to instruct the AI to generate a catchy listing.
+
+5. **🤖 AI Text Generation**
+   The model generates a **title** and **detailed description**, using sampling for creativity.
+
+6. **📋 Display Output**
+   The result is shown on the interface. Users can also reset inputs with **“Clear”**.
+
+7. **🧪 Examples Included**
+   Pre-filled examples are available for quick testing.
+
+---
+
 ## 🔧 Getting Started
 
 To run the app locally:
