@@ -73,19 +73,19 @@ Try the app instantly via Hugging Face Spaces:
 
 ## AI Real Estate Listing Generator Web Interface
 
-![Alt text]()
+![Alt text](https://github.com/ctntrk/AI-Real-Estate-Listing-Generator/blob/main/AI-Real-Estate-Listing-Generator-Web-Interface.jpg)
 
 ---
 
 ## Sample Entries for Real Estate Listing
 
-![Alt text]()
+![Alt text](https://github.com/ctntrk/AI-Real-Estate-Listing-Generator/blob/main/Sample-Entries-for-Real-Estate-Listing.jpg)
 
 ---
 
 ## Result Screen After Model Run
 
-![Alt text]()
+![Alt text](https://github.com/ctntrk/AI-Real-Estate-Listing-Generator/blob/main/Result-Screen-After-Model-Run.jpg)
 
 ---
 
