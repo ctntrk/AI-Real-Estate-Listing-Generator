@@ -21,13 +21,13 @@ Try the app instantly via Hugging Face Spaces:
 
 ## Real-Estate-HuggingFace-Space
 
-![Alt text]()
+![Alt text](https://github.com/ctntrk/AI-Real-Estate-Listing-Generator/blob/main/Real-Estate-HuggingFace-Space.png)
 
 ---
 
 ## Real-Estate-HuggingFace-Space-Web-Interface
 
-![Alt text]()
+![Alt text](https://github.com/ctntrk/AI-Real-Estate-Listing-Generator/blob/main/Real-Estate-HuggingFace-Space-Web-Interface.png)
 
 ---
 
